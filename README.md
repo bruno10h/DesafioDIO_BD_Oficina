@@ -24,6 +24,8 @@ Cada OS possui: n°, data de emissão, um valor, status e uma data para conclus�
 ## AÇÕES
 
 Criado do zero, utilizei todas as especificações da narrativa pra poder basear este esquema; acredito está bem completo conforme o proposto.
+![Diagrama ERD](Oficina.png)
+
 
 ## Aprendizados
 
